@@ -1,0 +1,23 @@
+body {
+    min-height: 800px;
+    border: 8px solid black;
+    margin: 0px;
+    display: flex;
+    column-gap: 10px;
+    row-gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.box {
+    height: 150px;
+    width: 150px;
+    background-color: rebeccapurple;
+    font-size: 40pt;
+    text-align: center;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+}
